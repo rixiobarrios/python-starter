@@ -1,54 +1,57 @@
 [![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
 
-# Homework Template
+# Introduction to Python
 
-Use this template to structure your READMEs for diagnostics.
-
-Be sure to include a recent [`LICENSE`](LICENSE) and Markdown linter
-configuration ([`.remarkrc`](.remarkrc)).
+Work through this lesson by Google introducing the fundamental concepts of
+Python.
 
 ## Prerequisites
 
-* Topics with which developers should be familiar with.
-* Prerequisites are "just-in-time", so if I have a prerequisite that mentions
-  Sass, I would **not** need to include CSS as a prerequisite.
-* [Links to previous materials](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-  are often useful.
-* In a challenge, it is useful to link to reference material, such as talk
-  repositories.
+* None!
 
 ## Instructions
 
 1. Fork and clone this repository.
 1. Change into the new directory.
-1. Install dependencies.
-1. Fulfill the listed requirements.
+1. Read through the Google Python Class.
+1. Complete the Basic Python Exercises.
+1. Make a Pull Request to submit your work.
 
-Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are
-required to turn in your submission by making a pull request on the original
-repository.
+Work through the [Google Python
+Class](https://developers.google.com/edu/python/) sections listed below, then
+complete the [Basic
+Exercises](https://developers.google.com/edu/python/exercises/basic) in this
+repository. Commit each section of the Basic Exercises in here and submit your
+work with a pull request.
 
 Unless otherwise specified on the calendar or by an instructor, homework is due
 the next morning by 9:00am.
 
 ## Requirements
 
-Describe behavioral requirements as you'll be using them in tests. That is,
-list requirements in language that describes how the written code will be used,
-not how it will be written, with the exception of constraints you may wish to
-place on implementation. It's a good idea to include the below paragraph
-verbatim.
+Work through the following sections of the [Google Python
+Class](https://developers.google.com/edu/python/):
+
+1. Overview
+1. Python Set Up
+1. Introduction
+1. Strings
+1. Lists
+1. Sorting
+1. Dicts and Files
+
+Once you finish working through these sections of the lesson, finish the [Basic
+Exercises](https://developers.google.com/edu/python/exercises/basic) in this
+repository, committing after each exercise.
 
 ## Bonus
 
-Bonuses are described after the requirements, if included. They should be worked
-on **only after** passing requirements.
+The Google Python Class contains three other exercises, complete any (or all) of
+them:
 
-Less experienced students should be able to complete the base requirements in
-the alloted time for labs and in around 2 hours for homework; more experienced
-students should be to complete the bonus.
-
-Sometimes, we ask questions that promote thinking critically about code.
+1. [Baby Names Exercise](https://developers.google.com/edu/python/exercises/baby-names)
+1. [Copy Special Exercise](https://developers.google.com/edu/python/exercises/copy-special)
+1. [Log Puzzle Exercise](https://developers.google.com/edu/python/exercises/log-puzzle)
 
 ## Plagiarism
 
