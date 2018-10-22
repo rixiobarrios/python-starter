@@ -7,13 +7,13 @@ Python.
 
 ## Prerequisites
 
-* None!
+* Fundamentals of programming in another language
 
 ## Instructions
 
 1. Fork and clone this repository.
 1. Change into the new directory.
-1. Read through the Google Python Class.
+1. Read through the Google Python Lesson.
 1. Complete the Basic Python Exercises.
 1. Make a Pull Request to submit your work.
 
